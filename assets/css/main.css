@@ -75,7 +75,7 @@
 	}
 
 	body {
-		background: #fff;
+		background: #000;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1475,7 +1475,7 @@
 		background-repeat: no-repeat;
 		background-position: center;
 		text-align: center;
-		color: #FFF;
+		color: #000;
 	}
 
 		#banner:before {
@@ -1559,7 +1559,7 @@
 /* Main */
 
 	#main {
-		background: #f1f1f1;
+		background: #000;
 		width: 100%;
 	}
 
